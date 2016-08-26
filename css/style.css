@@ -1,3 +1,164 @@
 body {
   background-color:#ccc;
+  font-family:Arial;
+  margin:0;
+  padding:0;
+}
+
+p {
+  color:#222;
+}
+
+section p {
+  line-height:22px;
+}
+
+main {
+  margin:0;
+  padding:0;
+  background-color:#E63333;
+  width:100%;
+  display:block;
+  max-width:1000px;
+  margin-left:calc(50% - 500px);
+}
+
+header {
+  width:100%;
+  text-align:center;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+}
+
+header img {
+  margin-left:100px;
+  margin-right:100px;
+  display:inline-block;
+  vertical-align:middle;
+}
+
+.small {
+  font-size:10px;
+}
+
+.big {
+  font-size:16px;
+  font-weight:bold;
+}
+
+.circle {
+  padding:10px;
+  font-size:13px;
+  border-radius:100%;
+  width:200px;
+  height:200px;
+  line-height: 200px;
+  text-align: center;
+  vertical-align:center;
+  display:inline-block;
+  background-color:#FBB332;
+}
+
+.circle span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+section {
+  text-align:left;
+  padding:4%;
+  margin:5%;
+  margin-top:2%;
+  width:82%;
+  background-color:#fff;
+}
+
+footer {
+  text-align:center;
+  padding-left:4%;
+  padding-right:4%;
+  margin-left:5%;
+  margin-right:5%;
+  width:82%;
+  color:#fff;
+  padding-bottom:30px;
+}
+
+footer p {
+  color:#fff;
+  font-size:13px;
+  margin:0;
+  padding:0;
+  margin-left:11px;
+  margin-right:11px;
+  display:inline-block;
+}
+
+nav {
+  text-align:center;
+  padding-left:4%;
+  padding-right:4%;
+  margin-left:5%;
+  margin-right:5%;
+  width:82%;
+  color:#fff;
+}
+
+nav a {
+  text-decoration:none;
+  color:inherit;
+  margin-left:11px;
+  margin-right:11px;
+}
+
+nav a:hover {
+  color:#ccc;
+}
+
+.clear {
+  background-color:inherit;
+  padding:0%;
+}
+
+.content {
+  background-color:#fff;
+  width:100%;
+  width:68%;
+  display:inline-block;
+  float:left;
+}
+
+.sidebar {
+  background-color:#fff;
+  width:100%;
+  text-align:center;
+  width:28%;
+  display:inline-block;
+  float:right;
+}
+
+.left {
+  display:inline-block;
+  float:left;
+  width:49%;
+}
+
+.right {
+  display:inline-block;
+  float:right;
+  width:49%;
+  text-align:right;
+}
+
+p {
+  padding-top:0;
+  margin-top:0;
+}
+
+.clear {
+  display:block;
+  margin-bottom:25px;
+  clear:both;
 }
