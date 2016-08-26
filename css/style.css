@@ -162,3 +162,48 @@ p {
   margin-bottom:25px;
   clear:both;
 }
+
+@media (max-width: 1000px) {
+  main {
+    margin:0;
+    width:100%;
+  }
+
+  .left {
+    float:none;
+    width:100%;
+    text-align:center;
+  }
+
+  .right {
+    float:none;
+    width:100%;
+    text-align:center;
+  }
+
+  .content {
+    float:none;
+    width:100%;
+    text-align:center;
+  }
+
+  .sidebar {
+    float:none;
+    width:100%;
+    text-align:center;
+  }
+
+  nav a {
+    display:block;
+    padding:10px;
+  }
+
+  footer p {
+    display:block;
+    padding:10px;
+  }
+
+  .circle {
+    display:none;
+  }
+}
