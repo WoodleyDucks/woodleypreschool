@@ -209,7 +209,23 @@ p {
     padding:10px;
   }
 
+.white {
+  color:#fff;
+}
+
   .circle {
     display:none;
+  }
+
+  section img {
+    width:100%;
+  }
+
+  h1 {
+    text-align:center;
+  }
+
+  h2 {
+    text-align:center;
   }
 }
