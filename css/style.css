@@ -169,6 +169,14 @@ p {
   clear:both;
 }
 
+table, tr {
+  border:1px solid #333;
+}
+
+td {
+  text-align:center;
+}
+
 @media (max-width: 1000px) {
   main {
     margin:0;
