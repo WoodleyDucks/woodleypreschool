@@ -9,6 +9,14 @@ p {
   color:#222;
 }
 
+a {
+  color:#222;
+}
+
+footer a {
+  color:#fff;
+}
+
 section p {
   line-height:22px;
 }
@@ -175,6 +183,18 @@ table, tr {
 
 td {
   text-align:center;
+}
+
+.text-left {
+  text-align:left;
+}
+
+.text-center {
+  text-align:center;
+}
+
+.text-right {
+  text-align:right;
 }
 
 @media (max-width: 1000px) {
