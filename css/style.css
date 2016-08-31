@@ -6,7 +6,9 @@ body {
 }
 
 iframe {
-  width:450%;
+  width:450px;
+  height:350px;
+  margin-bottom:20px;
 }
 p {
   color:#222;
