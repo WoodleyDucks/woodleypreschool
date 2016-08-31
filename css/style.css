@@ -5,6 +5,9 @@ body {
   padding:0;
 }
 
+iframe {
+  width:450%;
+}
 p {
   color:#222;
 }
@@ -260,5 +263,9 @@ td {
 
   h2 {
     text-align:center;
+  }
+  
+  iframe {
+    width:100%;
   }
 }
