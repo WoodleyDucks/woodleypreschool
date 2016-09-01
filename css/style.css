@@ -185,13 +185,13 @@ p {
 table, tr {
   border-spacing:0;
   border-collapse: collapse;
-  border:1px solid #fefefe;
+  border:1px solid #ccc;
 }
 
 td {
   border-spacing:0;
   border-collapse: collapse;
-  border-bottom:1px solid #fefefe;
+  border-bottom:1px solid #ccc;
   text-align:center;
 }
 
