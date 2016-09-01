@@ -255,7 +255,8 @@ td {
   }
 
   footer p {
-    display:block;
+    display:inline-block;
+    width:inherit;
     padding:10px;
   }
 
