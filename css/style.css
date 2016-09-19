@@ -265,7 +265,10 @@ td {
 }
 
   .circle {
-    display:none;
+    display:inline-block;
+    background-color:inherit;
+    border-radius:0;
+    border:0;
   }
 
   section img {
