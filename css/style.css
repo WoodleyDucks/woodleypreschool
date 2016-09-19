@@ -269,6 +269,8 @@ td {
     background-color:inherit;
     border-radius:0;
     border:0;
+    text-align:center;
+    color:#fff;
   }
 
   section img {
