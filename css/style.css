@@ -271,11 +271,24 @@ td {
     border:0;
     text-align:center;
     color:#fff;
+    padding-bottom:0;
+    margin-bottom:0;
   }
 
+  .circle:first-child {
+    display:none; 
+  }
 
+  .circle span {
+    text-align:center;
+    margin-bottom:0;
+    padding-bottom:0;
+  }
   .circle p {
     color:#fff;
+    text-align:center;
+    margin-bottom:0;
+    padding-bottom:0;
   }
 
   section img {
