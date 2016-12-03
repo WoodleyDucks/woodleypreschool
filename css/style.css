@@ -265,9 +265,8 @@ td {
 }
 
   .circle {
-    display:inline;
+    display:inline-block;
     height:auto;
-    width:auto;
     background-color:inherit;
     border-radius:0;
     border:0;
