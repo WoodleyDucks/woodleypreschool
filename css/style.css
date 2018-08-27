@@ -79,6 +79,10 @@ header img {
   line-height: normal;
 }
 
+.circle:first-child span{
+	padding-top:20px;
+}
+
 h1 {
   font-size:30px;
   color:#E63333;
